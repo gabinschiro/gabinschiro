@@ -35,7 +35,7 @@
 ## 🛠️ My Major Project
 
 ### 🌟 OpalLang - My Programming Language
-- 🚀 Currently in development: **A new programming language designed for performance and low-level system control**.
+- 🚀 Currently in development: **A new programming language designed for performance and easy synthax**.
 - 📌 Check it out here: **[OpalLang Repository](https://github.com/OpalLang)**
 
 ---
