@@ -1,4 +1,4 @@
-# Gabin Schiro
+# Gabz
 
 Low-level developer • C/C++/Rust • Assembly • Systems programming
 
